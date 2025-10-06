@@ -1,0 +1,1 @@
+print("Voici les regles du jeux !")
