@@ -16,6 +16,7 @@ def menu():                                                                     
             print(info_bot() )                                                               #on appelle la fonction info_bot pour afficher les infos sur le bot
         elif choix==4:
             print("merci d avoir joue ! a bientot j espere !")
+            clear()
             break
         else:
             print("choix incorrect, recommence ! \n")
