@@ -5,7 +5,7 @@ from gaming.game import *
 
 def menu():                                                                         #fonction pour afficher le menue
     while True:                                             #boucle infinie pour revenir au menue apres chaque partie s arrete qu avec un break                             
-        print (" 1- jouer \n 2- regles du jeu \n 3- info sur le bot \n 4- quitter \n")
+        print (" ***MENU*** \n \n 1- jouer \n 2- regles du jeu \n 3- info sur le bot \n 4- quitter \n")
         choix=int(input("choisi une option ! \n "))                                      
 
         if choix==1:
