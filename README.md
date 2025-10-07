@@ -1,4 +1,11 @@
-🎮 Projet : Pierre – Feuille – Ciseaux
+██████╗ ██╗██╗██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██║██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
+██████╔╝██║██║██████╔╝██████╔╝█████╗  ██████╔╝
+██╔═══╝ ██║██║██╔═══╝ ██╔══██╗██╔══╝  ██╔══██╗
+██║     ██║██║██║     ██║  ██║███████╗██║  ██║
+╚═╝     ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+         🎮 PIERRE – FEUILLE – CISEAUX 🎮
+
 
 
 
@@ -7,7 +14,7 @@
 Ce projet est une implémentation du célèbre jeu Pierre – Feuille – Ciseaux en Python, avec une structure modulaire et un affichage soigné.
 L’objectif est de permettre à un joueur d’affronter l’ordinateur dans une série de manches, avec gestion du score, du menu et des règles du jeu.
 
-🚀 Fonctionnalités principales
+🚀 Fonctionnalités principales :
 
 🪨 Choix interactif : le joueur choisit entre pierre, feuille ou ciseaux.
 
