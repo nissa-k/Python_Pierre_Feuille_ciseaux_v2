@@ -63,15 +63,17 @@ PYTHON_PIERRE_FEUILLE_CISEAUX/
 
 
 
-🏁 Lancer le jeu
+🏁 Lancer le jeu :
 
 Installation et Lancement
 
 1. Clonez ce projet sur votre machine locale :
-git clone https://github.com/nissa-k/Python_Pierre_Feuille_ciseaux_v2.git
+    
+    git clone https://github.com/nissa-k/Python_Pierre_Feuille_ciseaux_v2.git
 
 2. Dans le terminal 
-python main.py
+   
+   python main.py
 
 👤 Auteur
 
