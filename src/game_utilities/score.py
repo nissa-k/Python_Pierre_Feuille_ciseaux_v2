@@ -1,5 +1,5 @@
 from colorama import Fore, Style
-from gaming.game import *
+from src.gaming.game import *
 import pyfiglet
 
 

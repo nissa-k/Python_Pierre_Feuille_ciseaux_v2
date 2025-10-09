@@ -1,7 +1,7 @@
-from info.info_bot import *
-from info.info_player import *
-from rules.rules_game import *
-from gaming.game import *
+from src.info.info_bot import *
+from src.info.info_player import *
+from src.rules.rules_game import *
+from src.gaming.game import *
 
 def menu():                                                                         #fonction pour afficher le menue
     while True:                                             #boucle infinie pour revenir au menue apres chaque partie s arrete qu avec un break                             

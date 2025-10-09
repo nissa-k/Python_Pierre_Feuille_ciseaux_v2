@@ -1,10 +1,10 @@
 import random
-from useful_function.clear import *
-from info.info_player import *
+from src.useful_function.clear import *
+from src.info.info_player import *
 from time import *
 from datetime import datetime
-from game_utilities.choice import *
-from game_utilities.score import score
+from src.game_utilities.choice import *
+from src.game_utilities.score import score
 
 
 def debut_game():

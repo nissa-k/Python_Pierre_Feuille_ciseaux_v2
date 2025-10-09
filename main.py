@@ -1,5 +1,5 @@
-from useful_function.clear import clear 
-from game_utilities.menu import menu
+from src.useful_function.clear import clear 
+from src.game_utilities.menu import menu
 from datetime import * 
 
 def main():
